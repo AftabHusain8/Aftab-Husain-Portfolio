@@ -48,12 +48,12 @@
 
 ## ✨ Key Features
 
-| Feature           | Status |
-| ----------------- | ------ |
-| Responsive Design | ✅      |
-| Resume Download   | ✅      |
-| Project Showcase  | ✅      |
-| Animations        | ✅      |
+| Feature           | Status  |
+| ----------------- | ------  |
+| Responsive Design | ✅     |
+| Resume Download   | ✅     |
+| Project Showcase  | ✅     |
+| Animations        | ✅     |
 | Live Deployment   | 🔄     |
 
 ---
@@ -85,8 +85,8 @@ npm run dev
 | Platform | Link                                                |
 | -------- | --------------------------------------------------- |
 | GitHub   | https://github.com/AftabHusain8                     |
-| Email    | [your-email@gmail.com](mailto:your-email@gmail.com) |
-| LinkedIn | Add your profile link                               |
+| Email    | aftabhussain22200@gmail.com                         |
+| LinkedIn | https://www.linkedin.com/in/aftabhussain08/         |                           |
 
 ---
 
