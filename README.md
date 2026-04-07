@@ -1,48 +1,106 @@
-# 🌐 Aftab's Digital Hub
+# 🚀 Aftab's Digital Hub
 
-A modern, full-stack developer portfolio showcasing my projects, skills, and experience in **Cybersecurity, Full Stack Development, and Software Engineering**.
+<p align="center">
+  <b>Cybersecurity Enthusiast • Full Stack Developer • Problem Solver</b>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Aftab Husain**  
-🎓 Electronics Engineering Graduate (2025)  
-🔐 Cybersecurity Enthusiast  
-💻 Full Stack Developer  
-
-I build secure, scalable, and user-focused applications with modern technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-Live-blue" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red" />
+</p>
 
 ---
 
-## 🚀 Features
+## 📊 Project Overview
 
-- ⚡ Modern UI/UX design
-- 🔐 Secure backend integration
-- 📱 Fully responsive design
-- 🌐 Project showcase section
-- 📬 Contact form functionality
-- 🧠 Optimized for performance
+| Feature       | Description                               |
+| ------------- | ----------------------------------------- |
+| 🎯 Purpose    | Showcase skills, projects, and experience |
+| 💻 Type       | Full Stack Portfolio                      |
+| ⚡ Performance | Optimized & Fast                          |
+| 🎨 UI         | Modern Glassmorphism Design               |
+| 🔐 Focus      | Cybersecurity + Development               |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React.js / Next.js / Vite
-- HTML5, CSS3, JavaScript
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB / Firebase (if used)
-
-**Tools & Deployment**
-- Git & GitHub
-- Vercel / Netlify
+| Category | Technologies Used            |
+| -------- | ---------------------------- |
+| Frontend | React.js, Vite, Tailwind CSS |
+| Backend  | Node.js, Express.js          |
+| Database | MongoDB / Firebase           |
+| Tools    | Git, GitHub, Vercel          |
 
 ---
 
 ## 📂 Project Structure
+
+| Folder/File    | Description            |
+| -------------- | ---------------------- |
+| `/src`         | Main source code       |
+| `/components`  | Reusable UI components |
+| `/public`      | Static assets & resume |
+| `package.json` | Dependencies & scripts |
+
+---
+
+## ✨ Key Features
+
+| Feature           | Status |
+| ----------------- | ------ |
+| Responsive Design | ✅      |
+| Resume Download   | ✅      |
+| Project Showcase  | ✅      |
+| Animations        | ✅      |
+| Live Deployment   | 🔄     |
+
+---
+
+## ⚙️ Installation Guide
+
+```bash
+git clone https://github.com/AftabHusain8/aftab-husain-portfolio.git
+cd aftab-husain-portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 📈 Future Improvements
+
+| Feature             | Plan |
+| ------------------- | ---- |
+| Live Project Demos  | 🔜   |
+| Blog Section        | 🔜   |
+| Admin Dashboard     | 🔜   |
+| Advanced Animations | 🔜   |
+
+---
+
+## 📬 Contact
+
+| Platform | Link                                                |
+| -------- | --------------------------------------------------- |
+| GitHub   | https://github.com/AftabHusain8                     |
+| Email    | [your-email@gmail.com](mailto:your-email@gmail.com) |
+| LinkedIn | Add your profile link                               |
+
+---
+
+## 💼 Author
+
+**Aftab Husain**
+Electronics Engineering Graduate | Cybersecurity Enthusiast
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+### ⚡ Developed and maintained by Aftab Husain
