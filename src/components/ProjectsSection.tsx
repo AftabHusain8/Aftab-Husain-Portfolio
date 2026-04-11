@@ -17,7 +17,7 @@ const projects = [
     title: "Hospital Management System",
     description: "Full-stack CRUD application for managing patients, appointments, doctors, and medical records with role-based access.",
     tags: ["Django", "React", "PostgreSQL"],
-    github: "https://github.com/aftabhusain/hospital-management",
+    github: "https://github.com/AftabHusain8/hospital-management",
     demo: "#",
   },
   {
